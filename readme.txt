@@ -5609,11 +5609,6 @@ td.detail_title{
 	width:40%;
 	float:left
 }
-.service_table{
-	width:58%;
-	float:left;
-	margin:0 0 0 2%
-}
 
 .service_table td{
 	font-size:90%
@@ -5621,7 +5616,7 @@ td.detail_title{
 
 .service_point{
 	clear:both;
-	font-size:90%
+	font-size:80%
 }
 
 /*---------------------------------------------------------------------
